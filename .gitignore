@@ -1,0 +1,7 @@
+# Specify filepatterns you want git to ignore.
+.idea
+venv
+windows_library/Distance.exp
+windows_library/Distance.obj
+windows_library/Distance.lib
+windows_library/Distance.dll
